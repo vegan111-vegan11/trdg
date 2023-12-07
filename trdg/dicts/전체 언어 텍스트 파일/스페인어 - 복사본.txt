@@ -1,0 +1,543 @@
+ThinQ
+Hola
+Idioma
+Algodón
+Lavado AI
+TurboWash39
+Antialérgico
+Edredones
+Mixtos
+Lavado Rápido
+Lavado Ráp.+Secado
+Sólo Secado
+Limpieza de Tina
+Chaqueta de Plumas
+Enjuague+Centrifug.
+Solo Centrifugado
+Lavado Silencioso
+Delicado
+Ropa deportiva
+Cuidado del Color
+Sintético
+Toallas
+Jeans
+Sábanas
+Refres ropa de cama
+Cuid.Infan c/ vapor
+Pequeña Carga
+Lavado a Mano/Lana
+Eco40-60
+Higiene
+Cuidado de mancha
+Lavado frio
+Doble enjuague
+Dia lluvioso
+Prenda sencilla
+Camiseta
+Enjuag inteligente
+Una camiseta
+Solo lavado
+Solo enjuague
+Uniforme escolar
+Cuidado de mascota
+Mis ciclos
+Cargas mezcladas
+y tejidos de
+algodón o lino
+Optimiza el ciclo 
+con base a los 
+contenidos de la ropa
+Lava en aproximadamente
+39 minutos
+con una media carga
+Reduce alérgenos como
+los ácaros del polvo
+Edredón, manta 
+o ropas de cama
+Lava tejidos mixtos 
+simultáneamente
+Lavado rápido 
+para carga pequeña
+Lavado y secado rápido 
+para carga pequeña
+Seca sin lavar
+Diseñado para limpiar 
+el interior 
+de la lavadora
+Lava ropa con plumón 
+sin pérdidas del mismo
+Solo enjuaga 
+y centrifuga artículos
+Drena y centrifuga 
+sin lavar ni enjuagar
+Lava ropa 
+con menos ruido
+Lencería, 
+tejidos transparentes 
+o fáciles de dañar
+Tejido de trato especial
+para deportes 
+o ropa de abrigo
+Ayuda a mantener 
+los colores
+Lava ropa que 
+no necesita plancha
+luego del lavado
+Toallas de baño
+, batas de baño, 
+toallas de mano
+Diseñado 
+específicamente 
+para jeans
+Ropa de cama 
+como sábanas
+Refresca para 
+reducir el polvo y 
+olores de ropa de cama
+Ayuda a lavar 
+manchas de comida en 
+ropa de bebé con vapor
+Unos pocos artículos 
+con suciedad normal
+Artículos de lana que
+pueden reducir tamaño 
+o para lavar a mano
+Lavado de algodon sucio
+Ropas lavable
+entre 40℃ or 60℃
+Utiliza
+lavado caliente
+Ropas de algodon
+Muy sucio
+especialmente algodon
+Lavado de ropa
+con agua fria
+Enjuague doble
+y un centrifugado
+Lavado de ropa
+afectado por poca lluvia
+salvo ropa impermeable
+Lavado rapido para
+una ropa
+Temperatura de agua
+subiendo hasta 60℃
+para remover manchas
+Incrementa el numero de
+enjuague para remover
+residuo de detergente
+Lavado rapido para
+una camiseta
+Un lavado sin
+enjuague o
+centrifugado
+Un enjuague sin
+enjuague o
+centrifugado
+Lavado de
+uniforme escolar
+Lavado de ropa
+para mascotas
+Lavado
+Enjuague
+Centrifugado
+Secado
+Temperatura
+Lavado
+Enjuague
+Centrifugado
+Secado
+Temperatura
+Reserva
+TurboWash
+Configuración
+Pre-Lavado
+Vapor
+Cantidad de detergente
+Cantidad de suavizante
+Inicio Remoto
+Bloqueo para niños
+Editar lista de ciclos
+Cuidado de arruga
+Luz del Tambor
+Más ajustes
+Wi-Fi
+Optimización de ciclos
+Uso de dispensador 2
+Cant. de det. predet.
+Cant. de sua. predet.
+Limpeza de ezDispense
+Sonido
+Idioma
+Smart Diagnosis
+Reajuste de fábrica
+Fría
+20°C
+30°C
+40°C
+60°C
+95°C
+Sin Centrifugado
+Muy Bajo
+Bajo
+Medio
+Alto
+Muy Alto
+Sin Secado
+Secado Estandar
+Secado Plancha
+Baja temperatura
+30min
+60min
+120min
+Apagado
+1 vez
+2 veces
+3 veces
+4 veces
+5 veces
+Apagado
+Encendido
+Apagado
+Encendido
+Apagado
+1hr
+1hr 30min
+Apagado
+Normal
+Intenso
+Apagado
+Encendido
+Apagado
+Encendido
+Apagado
+Mínimo
+Menos
+Normal
+Más
+Máximo
+Apagado
+Mínimo
+Menos
+Normal
+Más
+Máximo
+Apagado
+Encendido
+Apagado
+Encendido
+Apagado
+Encendido
+No conectado
+Conectado
+Desconectado
+Apagado
+Encendido
+2.º detergente
+Suavizante
+Enlace detergentes
+9 ~ 120ml (3ml)
+9 ~ 120ml (3ml)
+Toque ✓ para limpiar
+Dispensador 1
+Dispensador 2
+Ambos dispensadores
+Apagado
+Bajo
+Medio
+Alto
+Muy alto
+Idioma
+Toque ✓ para reajustar
+Toque ✓ e introducir
+Toque ✓ para iniciar
+Detectando
+el nivel
+de carga
+Detectando
+el nivel 
+de suavidad
+Detectando
+el nivel 
+de suciedad
+Optimizando
+Lavado AI
+Dispensación
+automática
+de detergente
+Dispensación
+automática
+de suavizante
+Lavado
+Pre-lavado
+Enjuague
+Centrifugado
+Limpieza
+Secado
+Vapor
+Refrescando
+Pausado
+Enfriamiento
+Reserva Activada
+Pendiente finalizar
+Lavado Finalizado
+Limpieza de Tina Finalizado
+Antiarrugas Finalizado
+Secado finalizado
+Toque ▶ y agrega ropas
+Reserva Activada
+Hoy
+Manana
+Manana
+Noche
+Hora
+Minuto
+Gire el dial para selec.
+la hora de finalización
+y toque ✓ para establecer
+Toque ← para guardar 
+Toque ✓ para seleccionar
+o deseleccionar
+Consulte la cantidad
+recomendada
+de detergente (4-6kg)
+Consulte la cant.
+recomendada 
+de suavizante (4-6kg).
+Gire el dial 
+para seleccionar 
+la hora de finalización 
+y toque ✓ para establecer
+El ciclo fue cancelado.
+Activando Inicio Remoto
+La puerta se bloqueará.
+Desactivando Inicio Remoto.
+Activando
+Bloqueo para Niños.
+Desactivando 
+Bloqueo para Niños.
+Guardado
+El maximo numero de
+ciclo es 20.
+Desseleccionar ciclos no
+usados y proceder a editar.
+Limpie el Dispensador 2 
+con Limpieza de boquilla
+del ezDispense 
+antes de agregar nuevo líq.
+Limpieza cancelada
+Reserva establecida.
+Toque ▶ para
+iniciar el ciclo.
+Configuarar Reserva.
+Toque ▶ para
+completar config
+de Delay End.
+Reserva desactivándose.
+Reserva cancelada.
+Fresh Keeper activandose.
+Toque ▶ o alimentacion
+para finalizar.
+Inicio Remoto aun activo.
+Toque alimentacion
+para deshabilitar
+ncio Remoto.
+Mantenga presionado ✓
+por 3 segs. 
+para desactivar
+Bloqueo para Niños.
+Guardando lista de ciclos
+Esperando 
+la conexión Wi-Fi.
+Conecte el producto
+desde la app LG ThinQ.
+Conectándose al Wi-Fi
+Wi-Fi conectado
+Error de la conexión Wi-Fi.
+Verifique la información
+en la app LG ThinQ 
+e inténtelo de nuevo.
+Optimizando 
+el orden de ciclos 
+y opciones 
+basadas en el uso
+Finalizado. 
+El orden de ciclos 
+y las opciones favoritas 
+se establecerán 
+automáticamente.
+Limpie el Dispensador 1,
+llene con agua e inicie 
+Limpieza de ezDispense. 
+La alimentación se apaga
+cuando la limpieza finaliza
+Favor consult. Manual
+Limpie el Dispensador 2,
+llene con agua e inicie 
+Limpieza de ezDispense. 
+La alimentación se apaga
+cuando la limpieza finaliza
+Favor consult. Manual
+Limpie ambos dispensadores,
+llene cada uno con agua e
+inicie Limp. de ezDispense
+La alimentación se apaga 
+cuando la limpieza finaliza
+Favor consult. Manual
+Limpieza finalizada
+Sostener microfono
+cerca de boton de
+alimentacion y 
+toque ▶.
+Diagnosticando. 
+Favor 
+mantener el teléfono 
+cerca del producto
+Diagnosticando. 
+Cuando diagnóstico finaliza
+el producto se apaga.
+Inicie toda config.
+a config. Inicial
+No desconecte
+la alimentacion
+mientras reconfigura
+Desea reconfigurar?
+Reconfigurando
+Restablecimiento finalizado.
+Reinicie el producto.
+Cuidado fresco activandose
+Toque ▶ o la alimentacion
+para finalizar.
+Desea finalizar
+el lavado en progreso?
+Reserva se apagara
+por cambio de ciclo.
+Desea proceder?
+Reserva se apagara
+por cambio de ciclo.
+Desea proceder?
+Lista de ciclos organizada.
+Cambie la lista completa
+de ciclos en Editar lista 
+de ciclos de Más ajustes.
+Organizando ciclos
+basado en uso.
+El detergente está bajo.
+Agregue detergente.
+El suavizante está bajo. 
+Agregue detergente.
+Ambos dispensadores bajos.
+Llene ambos dispensadores.
+Conectar LG ThinQ
+para experimentar
+mas figuras.
+Existe nueva
+función disponible
+Actualice en la LG ThinQ.
+Se envió un mensaje
+a LG ThinQ. 
+Favor verificar su teléfono.
+Actualizar a
+último software 
+en la app LG ThinQ.
+Actualizar a 
+ultimo software en
+App de LG ThinQ.
+Es necesario limpiar tina
+Use el ciclo Limp. de tina.
+Algunos ciclos no se usan 
+muy a menudo. 
+Desea organizar 
+la lista de ciclos?
+Actualizando
+Actualizando
+Puerta abierta
+Puerta no cerrada
+Suministro de agua
+Favor drenar
+Favor centrifugar
+No se detecta agua
+Error del motor
+Nivel de agua
+muy alto
+Error de congelacion
+No se detecta
+temperatura
+Sensor de vibracion
+con problema
+Sensor de turbiedad
+con problema
+Revisar tanque de
+detergente
+Sin detergente
+Revisar tanque de
+suavizante
+Sin suavizante
+Abnormalidad en
+Dispensador auto. 1
+Abnormalidad en
+Dispensador auto. 2
+Cajon abierto
+Error de vapor
+Falla de alimentacion
+Exceso de 
+detergente
+Abra y cierra la puerta
+de nuevo.
+Revise los objetos 
+alrededor de la puerta 
+y el sellado de la puerta.
+Abra llave de agua.
+Revise la presion de agua
+y manguera
+Revise el filtro de
+drenaje bloqueado o
+doble manguera de drenaje.
+Reorganice las ropas
+y reanude el ciclo.
+Desenchufe el dispositivo y
+llame al servicio.
+Retiren items y reinicie.
+Si error recurre
+llame al servicio.
+Hay mucha agua en tina.
+Cierre la llave del agua y
+llame al servicio.
+Descongele las partes
+antes de usar producto.
+Desenchufe el dispositivo y
+llame al servicio.
+Sensor de vibracion
+no funciona adecuadamente.
+llame al servicio.
+Si error persiste
+llame al servicio.
+Limpie tanque de detergente.
+Si error recurre
+llame al servicio.
+Fn de inyeccion automatico
+de detergente
+no funciona adecuadamente.
+llame al servicio.
+Limpie tanque de suavizante.
+Si error recurre
+llame al servicio.
+Fn de inyeccion automatico
+de suavizante
+no funciona adecuadamente.
+llame al servicio.
+Dispensador automatico 1
+no funciona adecuadamente.
+llame al servicio.
+Dispensador automatico 2
+no funciona adecuadamente.
+llame al servicio.
+Dispensador automatico
+no funciona adecuadamente.
+Cierre cajon de dispensador.
+Fn de vapor no funciona.
+llame al servicio.
+Pulse boton de inicio/pausa
+para reiniciar el ciclo.
+No agregar mas de 
+cantidad de detergente
+recomendada.

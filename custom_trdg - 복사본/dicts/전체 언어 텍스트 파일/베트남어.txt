@@ -1,0 +1,265 @@
+ThinQ
+Xin chào
+Ngôn ngữ
+Vải bông
+AI Wash
+TurboWash39
+Giặt ngừa dị ứng
+Giặt đồ trải giường
+Đồ hỗn hợp
+Giặt nhanh
+Giặt + Sấy nhanh
+Chỉ sấy
+Làm sạch lồng giặt
+Áo phao
+Giũ+Vắt
+Chỉ Vắt
+Giặt yên tĩnh
+Giặt đồ tinh xảo
+đồ thể thao
+Giặt quần áo màu
+Giặt nhẹ
+Sấy khăn
+Quần bò
+Ga trải giường
+Làm mới bộ đồ giường
+Giặt hơi nước đồ trẻ em
+Tải nhỏ
+Giặt tay/Đồ len
+Tải hỗn hợp và vải bông hoặc linen
+Tối ưu hóa chu trình dựa trên lượng đồ giặt
+Giặt trong khoảng 39 phút với khoảng nửa tải
+Giảm các chất gây dị ứng như mạt bụi
+Chăn lông vũ, chăn hoặc khăn trải giường
+Giặt đồng thời các đồ vải hỗn hợp
+Giặt nhanh cho tải nhỏ
+Giặt và sấy nhanh cho tải nhỏ
+Sấy mà không giặt
+Được thiết kế để làm sạch bên trong máy giặt
+Giặt quần áo phao mà không làm mất độ phồng
+Chỉ giũ và vắt đồ
+Xả và vắt mà không giặt hay giũ
+Giặt quần áo ít tiếng ồn hơn
+Đồ lót, quần áo mỏng hoặc vải dễ bị hỏng
+Vải đặc biệt hoặc được xử lý cho thể thao và áo khoác ngoài
+Giúp màu không bị phai
+Giặt quần áo không cần là sau khi giặt
+Khăn tắm, áo choàng tắm, khăn lau tay
+Được thiết kế đặc biệt cho quần bò
+Đồ giường như ga giường
+Làm mới để giảm bụi và mùi hôi từ đồ giường
+Giúp giặt sạch vết thức ăn trên quần áo em bé bằng hơi nước
+Một số đồ bị bẩn bình thường
+Đồ len có thể bị co và đồ có thể giặt tay
+Vắt
+Sấy
+Nhiệt độ
+Giũ
+Vắt
+Sấy
+Nhiệt độ
+Hẹn giờ
+Cài đặt
+Giặt sơ
+Lượng chất tẩy
+Lượng nước xả vải
+Khởi động từ xa
+Đèn lồng sấy
+Khóa Trẻ em
+Chỉnh sửa danh sách chu trình
+Cài đặt khác
+Wi-Fi
+Tối ưu hóa chu trình
+Sử dụng Bộ phân phối 2
+Lượng chất tẩy mặc định
+Lượng nước xả vải mặc định
+Làm sạch ngăn bột giặt
+Âm thanh
+Ngôn ngữ
+Smart Diagnosis
+đặt lại cài đặt gốc
+Lạnh
+20°C
+30°C
+40°C
+60°C
+95°C
+Không vắt
+Rất Thấp
+Thấp
+Trung Bình
+Cao
+Rất Cao
+Không sấy
+Tủ khô
+Là ủi
+Nhiệt độ thấp
+30 phút
+60 phút
+120 phút
+Tắt
+1 lần
+2 lần
+3 lần
+4 lần
+5 lần
+Tắt
+Bật
+Tắt
+Bật
+Tắt
+1 giờ
+1 giờ 30 phút
+Tắt
+Thông thường
+Giặt kĩ
+Tắt
+Bật
+Tắt
+Bật
+Tắt
+Tối thiểu
+Bớt
+Thông thường
+Thêm
+Tối đa
+Tắt
+Tối thiểu
+Bớt
+Thông thường
+Thêm
+Tối đa
+Tắt
+Bật
+Tắt
+Bật
+Tắt
+Bật
+Chưa kết nối
+Đã kết nối
+Tắt
+Bật
+Chất tẩy thứ hai
+Nước xả vải
+Kết nối chất tẩy
+9 ~ 120ml (3ml)
+9 ~ 120ml (3ml)
+Nhấn ✓ để làm sạch
+Bộ phân phối 1
+Bộ phân phối 2
+Tắt
+Thấp
+Trung Bình
+Cao
+Rất cao
+Ngôn ngữ
+Nhấn ✓ để đặt lại
+Nhấn ✓ để nhập
+Nhấn ✓ để khởi động
+Phát hiện mức tải
+Phát hiện độ mềm
+Phát hiện mức độ bẩn
+Tối ưu hóa AI Wash
+Tự động phân phối chất tẩy
+Tự động phân phối nước xả vải
+Giặt
+Giặt sơ
+Giũ
+Vắt
+Làm sạch
+Sấy
+Hơi nước
+Làm mới
+Tạm dừng
+Làm nguội
+Hẹn giờ đang bật
+Đã giặt xong
+Đã hoàn tất Làm sạch lồng giặt
+Đã hoàn tất Chống nhăn
+Đã sấy xong
+Nhấn ✓ để thêm quần áo.
+Hẹn giờ đang bật
+Xoay nút xoay để chọn thời gian kết thúc và chạm vào ✓ để đặt
+Xem lượng chất tẩy được khuyến nghị (4-6 kg).
+Xem lượng nước xả vải được khuyến nghị (4-6 kg).
+Xoay nút xoay để chọn thời gian kết thúc và chạm vào ✓ để đặt
+Đã hủy chu trình.
+Bật Khởi động từ xa. Cửa sẽ khóa.
+Tắt Khởi động từ xa.
+Bật Khóa Trẻ em.
+Tắt Khóa Trẻ em.
+Đã lưu.
+Làm sạch Bộ phân phối 2 bằng Làm sạch đầu phun ezDispense trước khi thêm chất lỏng mới.
+Đã hủy làm sạch
+Đã đặt Hẹn giờ. Nhấn ✓ để khởi động chu trình
+Hẹn giờ đang tắt.
+Hẹn giờ đang tắt.
+Đang chờ kết nối Wi-Fi. Hãy kết nối sản phẩm từ ứng dụng LG ThinQ.
+Đang kết nối Wi-Fi
+Đã kết nối Wi-Fi
+Lỗi kết nối Wi-Fi. Hãy kiểm tra thông tin trong ứng dụng LG ThinQ và thử lại.
+Tối ưu hóa trình tự chu trình và các tùy chọn dựa trên việc sử dụng.
+Đã hoàn tất. Trình tự và các tùy chọn yêu thích sẽ được đặt tự động.
+Làm sạch Bộ phân phối 1, đổ đầy nước và khởi động Làm sạch đầu phun ezDispense. Nguồn tắt khi làm sạch xong. Vui lòng tham khảo Hướng dẫn sử dụng.
+Làm sạch Bộ phân phối 2, đổ đầy nước và khởi động Làm sạch đầu phun ezDispense. Nguồn tắt khi làm sạch xong. Vui lòng tham khảo Hướng dẫn sử dụng.
+Làm sạch cả hai Bộ phân phối, đổ đầy nước vào mỗi bộ phân phối và khởi động Làm sạch đầu phun ezDispense. Nguồn tắt khi làm sạch xong. Vui lòng tham khảo Hướng dẫn sử dụng.
+Đã hoàn tất làm sạch
+Để micrô gần nút nguồn Nguồn và nhấn Khởi động.
+Đang chẩn đoán. Vui lòng để điện thoại gần sản phẩm.
+Đang chẩn đoán. Sản phẩm tắt khi chẩn đoán xong.
+Khởi tạo lại tất cả cài đặt về mặc định ban đầu. Đặt lại tất cả cài đặt?
+Đã hoàn tất đặt lại. Hãy khởi động lại sản phẩm.
+Đã sắp xếp danh sách chu trình. Thay đổi toàn bộ danh sách chu trình trong Chỉnh sửa danh sách chu trình của Cài đặt khác
+Ít chất tẩy. Hãy thêm chất tẩy.
+Ít nước xả vải. Hãy thêm nước xả vải.
+Cả hai bộ phân phối đều ở mức thấp. Hãy đổ đầy cả hai bộ phân phối.
+Kết nối với ứng dụng LG ThinQ để bắt đầu thực hiện việc giặt phù hợp với bạn
+Có tính năng mới. Hãy nâng cấp trong ứng dụng LG ThinQ.
+Tin nhắn đã được gửi đến ứng dụng LG ThinQ. Vui lòng kiểm tra điện thoại của bạn.
+Nâng cấp lên phần mềm mới nhất trong ứng dụng LG ThinQ
+Thời gian để làm sạch lồng giặt. Sử dụng chu trình Làm sạch lồng giặt.
+Một số chu trình không được sử dụng thường xuyên. Sắp xếp danh sách chu trình?
+Lỗi mở cửa
+Lỗi khóa cửa
+Lỗi cấp nước
+Lỗi xả
+Lỗi mất cân bằng
+Lỗi cảm biến áp suất
+Lỗi quay động cơ
+Lỗi tràn
+Lỗi đóng băng
+Lỗi cảm biến nhiệt
+Lỗi cảm biến rung
+Lỗi cảm biến độ đục
+Kiểm tra ngăn chất tẩy
+Lỗi phân phối chất tẩy
+Kiểm tra ngăn nước xả vải
+Lỗi phân phối nước xả vải
+Lỗi Bộ phân phối 1
+Lỗi Bộ phân phối 2
+Lỗi mở ngăn kéo
+Lỗi hơi nước
+Mất điện
+Phát hiện quá lượng
+Mở và đóng cửa đúng cách
+Kiểm tra lỗ chốt cửa xem có dị vật không
+Kiểm tra vòi và ống nước
+Kiểm tra ống xả và bộ lọc
+Mẻ giặt bị mất cân bằng. Hãy đảm bảo mẻ giặt được gỡ rối và tách rời.
+Cảm biến mực nước đã bị lỗi. Hãy gọi cho bộ phận dịch vụ.
+Lấy bớt mẻ giặt và bắt đầu giặt lại. Nếu lỗi vẫn tiếp diễn, hãy gọi cho bộ phận dịch vụ.
+Mực nước quá cao. Đóng vòi nước máy và gọi cho bộ phận dịch vụ.
+Ống cấp/ống xả hoặc bơm xả bị đóng băng. Hãy làm tan băng ống hoặc bơm.
+Rút dây điện và gọi cho bộ phận dịch vụ
+Cảm biến rung đã bị lỗi. Hãy gọi cho bộ phận dịch vụ.
+Cảm biến độ đục đã bị lỗi. Nếu lỗi vẫn tiếp diễn, hãy gọi cho bộ phận dịch vụ.
+Làm sạch Bộ phân phối 1. Nếu lỗi vẫn tiếp diễn, hãy gọi cho bộ phận dịch vụ.
+Chức năng phân phối chất tẩy đã bị lỗi. Hãy gọi cho bộ phận dịch vụ.
+Làm sạch Bộ phân phối 2. Nếu lỗi vẫn tiếp diễn, hãy gọi cho bộ phận dịch vụ.
+Chức năng phân phối nước xả vải đã bị lỗi. Hãy gọi cho bộ phận dịch vụ.
+Bộ phân phối 1 đã bị lỗi. Hãy gọi cho bộ phận dịch vụ.
+Bộ phân phối 2 đã bị lỗi. Hãy gọi cho bộ phận dịch vụ.
+Ngăn kéo bộ phân phối đang mở. Hãy mở và đóng cửa đúng cách
+Chức năng hơi nước đã bị lỗi. Hãy gọi cho bộ phận dịch vụ.
+
+

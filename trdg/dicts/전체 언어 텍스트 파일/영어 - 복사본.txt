@@ -1,0 +1,508 @@
+ThinQ
+Hello
+Language
+Cotton
+AI Wash
+TurboWash 39
+Allergy Care
+Duvet
+Mixed Fabric
+Quick Wash
+Quick Wash+Dry
+Dry Only
+Tub Clean
+Down Jacket
+Rinse+Spin
+Spin Only
+Silent Wash
+Delicates
+Activewear
+Color Care
+Easy Care
+Towels
+Jeans
+Bedding Sheets
+Bedding Refresh
+Baby Steam Care
+Small load
+Hand/Wool
+Eco40-60
+Hygiene
+Stain Care
+Cold Wash
+Double Rinse
+Rainy Days
+Single Garments
+Shirts
+Smart Rinse
+One Shirt
+Wash Only
+Rinse Only
+School Uniforms
+Pet Care
+My Cycle
+Mixed loads and cotton
+or linen fabrics
+Optimizes cycle
+based on contents
+of laundry
+Washes in
+approximately 39 minutes
+with about half load  
+Reduce allergens 
+such as dust mites
+Duvet, blanket 
+or bed dressings
+Wash mixed laundry
+simultaneously
+Quick wash for
+small load
+Quick wash and dry 
+for small load
+Dries with no wash
+Designed to clean
+the inside of the washer
+Washes down-filled
+clothes without
+losing the down filling
+Rinses and spins items
+only
+Drains and spins 
+with no wash or rinse
+Wash clothes with
+less noise
+Lingerie, sheer, or 
+easily damaged fabrics
+Special or treated 
+fabrics for sports or
+outerwear
+Helps keep colors from
+fading
+Washes clothes that do
+not need ironing after
+washing
+Bath towels, bath robes, 
+hand towels
+Designed specifically
+for jeans
+Bedding items
+like sheets
+Refreshes to 
+reduce dust and odors
+from the beddings
+Helps wash food stains
+from baby clothes
+using steam
+A few normally soiled
+items
+Shrinkable wool or
+hand-washable items
+Washes soiled cotton
+clothes declared to be
+washable at 40℃ or 60℃
+Uses
+hot wash temperature
+Heavily soiled laundry,
+especially
+cotton fabrics
+Washes clothes
+with cold water
+Rinse twice and spin
+once
+Washes clothes made
+slightly wet by rain,
+but not allowed raincoat
+Quick wash
+for a single item
+Water temperature is
+getting higher up to 60℃ 
+to help remove stains
+Increases the number of
+rinses to remove detergent
+residue from the clothes
+Quick wash
+for a single shirt
+Washes once
+with no rinse or spin
+Rinses once
+with no wash or spin
+Washes school uniforms
+Washes clothes for pets
+Wash
+Rinse
+Spin
+Dry
+Temp.
+Wash
+Rinse
+Spin
+Dry
+Temp.
+Delay End
+TurboWash
+Settings
+Pre Wash
+Steam
+Detergent Amount
+Softener Amount
+Remote Start
+Child Lock
+Cycle List Edit
+Crease Care
+Drum Light
+More Settings
+Wi-Fi
+Cycle Optimization
+Use of Dispenser 2
+Default Det. Amount
+Default Soft. Amount
+ezDispense Nozzle Clean
+Sound
+Language
+Smart Diagnosis
+Factory Reset
+Cold
+20℃
+30℃
+40℃
+60℃
+95℃
+No Spin
+Extra Low
+Low
+Medium
+High
+Extra High
+No Dry
+Cupboard
+Iron
+Low Temp.
+30min
+60min
+120min
+Off
+1 Time
+2 Times
+3 Times
+4 Times
+5 Times
+Off
+On
+Off
+On
+Off
+1hr
+1hr 30min
+Off
+Normal
+Intensive
+Off
+On
+Off
+On
+Off
+Minimum
+Less
+Normal
+More
+Maximum
+Off
+Minimum
+Less
+Normal
+More
+Maximum
+Off
+On
+Off
+On
+Off
+On
+Not connected
+Connected
+Disconnected
+Off
+On
+2nd Detergent
+Softener
+Link Detergents
+9 ~120ml (3ml)
+9 ~120ml (3ml)
+Touch ✓ to clean
+Dispenser 1
+Dispenser 2
+Both Dispensers
+Off
+Low
+Medium
+High
+Very High
+Language
+Touch ✓ to reset
+Touch ✓ to enter
+Touch ✓ to start
+Detecting
+Load
+Detecting
+Softness Level
+Detecting
+Soil Level
+Optimizing
+AI Wash
+Auto
+Detergent
+Dispensing
+Auto
+Softener
+Dispensing
+Washing
+Pre Washing
+Rinsing
+Spinning
+Cleaning
+Drying
+Steaming
+Refreshing
+Paused
+Cooling
+Delay End is on
+Waiting to be completed
+Washing finished
+Tub Clean finished
+Fresh Care finished
+Dry finished
+Touch ▶ to add garments
+Delay End is on
+Today
+TMRW. (Tomorrow)
+AM
+PM
+hr
+min
+Turn the dial to select the
+end time and touch ✓ to set
+Touch ← to save.
+Touch ✓ to select or
+deselect.
+See the amount
+recommended on the
+detergent (4-6kg).
+See the amount
+recommended on the
+softener (4-6kg).
+Turn the dial to select
+the end time and touch
+✓ to set.
+The cycle canceled.
+Turning on Remote Start.
+The door will lock.
+Turning off Remote Start.
+Turning on Child Lock.
+Turning off Child Lock.
+Saved.
+The maximun number of cycle
+is 20. Uncheck unused cycle
+and proceed Editing.
+Clean Dispenser 2 with
+ezDispense Nozzle Clean
+before adding new liquid.
+Cleaning canceled
+Delay End set.
+Touch ▶ to start the cycle.
+Delay End set.
+Touch ▶ to complete
+Delay End setting.
+Delay End turning off.
+Delay End is canceled.
+Fresh Keeper is running.
+Touch ▶ or Power
+button to end it.
+Remote Start still on.
+Touch Power button
+to disable Remote Start.
+Touch and hold ✓
+for 3 seconds
+to turn off Child Lock.
+Saving the cycle list
+Waiting for Wi-Fi
+connection. Connect
+the product from
+the LG ThinQ app.
+Connecting to Wi-Fi
+Wi-Fi connected
+Wi-Fi connection error.
+Check the info in
+LG ThinQ and try again.
+Optimizing cycle order
+and options based on use.
+Finished. Cycle order
+and favorite options will
+be automatically set.
+Clean Dispenser 1,
+fill with water and start
+ezDispense Nozzle Clean.
+The power is turned off
+when the cleaning is
+finished. Please refer
+to Owner’s Manual.
+Clean Dispenser 2,
+fill with water and start
+ezDispense Nozzle Clean.
+The power is turned off
+when the cleaning is
+finished. Please refer
+to Owner’s Manual.
+Clean both Dispensers,
+fill each with water and
+start ezDispense Nozzle Clean.
+The power is turned
+off when the cleaning is
+finished. Please refer
+to Owner’s Manual.
+Clean finished
+Hold the microphone
+close to the Power button
+and touch Start.
+Diagnosing.
+Please keep the phone
+near the product
+Diagnosing.
+When the diagnosis
+is finished,
+the product turns off.
+Initialize all settings back
+to factory default. Do not
+disconnect the power
+while resetting.
+Reset all settings?
+Resetting
+Reset finished.
+ Restart the product.
+Fresh Care is running.
+Touch ▶ or Power
+button to end it.
+Are you sure you want
+to end a wash in progress?
+Delay End will be turned off
+due to cycle change.
+Do you want to proceed?
+Delay End will be cancelled
+due to cycle change.
+Do you want to proceed?
+Cycle list organized.
+Change the full cycle list in
+Cycle List Edit of
+More Settings.
+Organizing cycles
+based on use.
+Detergent is low
+Add detergent.
+Softener is low.
+Add softener.
+Both dispensers are low. 
+Refill both dispensers.
+Connect LG ThinQ app
+to exprience
+more features.
+A new feature is 
+available. Upgrade in 
+the LG ThinQ app.
+A message was sent to 
+the LG ThinQ app.
+Please check
+your phone.
+Upgrade to the latest
+software
+in LG ThinQ app.
+Update to the latest
+software
+in LG ThinQ app.
+Time to clean the tub. 
+Use the Tub Clean cycle.
+Some cycles are not used
+very often. Organize the
+cycle list? Touch ←
+to do it later.
+Upgrading
+Updating
+Door Open
+Door Unlocked
+Water Supply
+Drainage
+Unbalance
+No water detected
+Motor error
+Water too high
+Freeze error
+No temp detected
+Vibration Sensor
+Turbidity sensor
+Check det. Tank
+No detergent
+Check soft. Tank
+No softener
+Auto Dispenser 1 abnormality
+Auto Dispenser 2 abnormality
+Drawer open
+Steam error
+Power Failure
+Overdosing
+Open and close the
+door again.
+Check for objects around
+the door and door seal.
+Turn on water.
+Check water pressure
+and inlet hoses.
+Check for
+a blocked drain filter
+or bent drain hoses.
+Rearrange the laundry
+and resume the cycle.
+Unplug the appliance and
+call for service.
+Remove items and restart.
+If error recurs,
+call for service.
+Too much water in tub.
+Turn off water and
+call for service.
+Thaw out frozen parts
+before using the product.
+Unplug the appliance and
+call for service.
+The vibration sensor is not
+working properly.
+Call for service.
+If the error persists,
+call for service.
+Clean detergent tank.
+If error recurs,
+call for service.
+The automatic detergent
+injection function
+does not work properly.
+Call for service.
+Clean softener tank.
+If error recurs,
+call for service.
+The automatic softener
+injection function
+does not work properly.
+Call for service.
+The automatic Dispenser 1
+does not work properly.
+Call for service.
+The automatic Dispenser 2
+does not work properly.
+Call for service.
+The automatic Dispenser
+drawer is open.
+Close the dispenser drawer.
+Steam function not working.
+Call for service.
+Touch the Start/ Pause
+Button to restart the cycle.
+Do not add more than
+the recommended
+amount of det.

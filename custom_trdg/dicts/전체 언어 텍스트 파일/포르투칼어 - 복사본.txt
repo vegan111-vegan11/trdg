@@ -1,0 +1,543 @@
+ThinQ
+Olá
+Idioma
+Algodão
+Lavagem AI
+TurboWash39
+Antialérgico
+Edredom
+Mix
+Lavagem Rápida
+Lavagem Rápida + Secagem
+Somente Secagem
+Limpeza do Cesto
+Jaqueta
+Enxaguar + Centrifugar
+Somente Centrifugar
+Lavagem Silencionsa
+Delicados
+Roupa esportiva
+Cuidados com a cor
+Tecidos Sintéticos
+Toalhas
+Jeans
+Lençóis
+Roupa de Cama
+Roupa de Bebê
+Carga pequena
+Lavagem a Mão/Lã
+Eco40-60
+Higiêne
+Cuidados com mancha
+Lavagem fria
+Enxágue duplo
+Dias de chuva
+Peças únicas
+Camisas
+Enxágue inteligente
+Uma camisa
+Somente lavagem
+Somente enxágue
+Uniformes escolares
+Cuidados com Pets
+Meu ciclo
+Cargas mistas
+e algodão ou linho
+Otimiza o ciclo baseado
+no conteúdo das roupas
+Lava meia carga
+em aproximadamente
+39 minutos
+Reduz alergênicos
+como ácaro
+Edredom, cobertor
+ou colchas
+Lava tecidos mistos
+simultaneamente
+Lavagem rápida
+com carga pequena
+Lavagem rápida e
+secagem para
+carga pequena
+Secar sem lavar
+Projetado para limpar
+o interior da
+máquina de lavar
+Lava roupas com
+enchimento de penugem
+sem perder o enchimento
+Apenas enxágua
+e centrifuga
+Seca e centrifuga
+sem lavar ou enxaguar
+Lava roupa com
+menos barulho
+Lingerie,
+tecidos transparentes ou
+facilmente danificáveis
+Tecidos especiais ou
+tratados para esportes
+ou para sair
+Ajuda a manter
+as cores vivas
+Lava roupas que não
+precisam ser passadas
+após a lavagem
+Toalhas de banho,
+roupão, toalhas de mão
+Projetado
+especificamente
+para jeans
+Itens de cama
+como lençóis
+Refresh para reduzir
+poeira e odores
+das roupas de cama
+Ajuda a lavar manchas de
+comida em roupas de bebê
+usando o vapor
+Alguns itens com
+sujeira normal
+Lã que pode encolher
+ou itens que precisam
+ser lavados à mão
+Lava roupas de algodão
+sujas, laváveis à 40℃
+ou 60℃
+Utiliza lavagem em
+alta temperatura
+Roupa muito suja,
+especialmente tecidos
+de algodão
+Lava roupas
+com água fria
+Enxágue duplo e
+centrifugação única
+Lava roupas úmidas
+pela chuva. Capa
+de chuva não permitida
+Lavagem Rápida
+para item único
+Temperatura da água
+acima de 60℃ para ajudar
+a remover manchas
+Aumenta o número de
+enxágues para remover
+resíduos de sabão
+Lavagem Rápida
+para camisa única
+Lava uma vez sem
+enxáguar ou centrifugar
+Enxágua uma vez
+sem lavar ou centrifugar
+Lava uniformes escolares
+Lava roupa de pets
+Lavagem
+Enxágue
+Centrifugar
+Secagem
+Temperatura
+Lavagem
+Enxágue
+Centrifugar
+Secagem
+Temperatura
+Adiar Fim
+TurboWash
+Configurações
+Pré-lavagem
+Vapor
+Qtde. Sabão
+Qtde. Amaciante
+Início Remoto
+Trava Para Crianças
+Editar lista do ciclo
+Cuidados com vincos
+Luz do Cesto
+Mais configurações
+Wi-Fi
+Otimização do ciclo
+Uso do dispenser 2
+Qtde. padrão sabão
+Qtde. padrão amaciante
+Limpeza ezDispense
+Som
+Idioma
+Smart Diagnosis
+Restauração de fábrica
+Fria
+20°C
+30°C
+40°C
+60°C
+95°C
+Sem centrifugação
+Muito Baixa
+Baixa
+Média
+Alta
+Muito Alta
+Sem Secagem
+Secagem Padrão
+Ferro Secagem
+Temperatura baixa
+30min
+60min
+120min
+Desligado
+1 Vez
+2 Vezes
+3 Vezes
+4 Vezes
+5 Vezes
+Desligado
+Ligado
+Desligado
+Ligado
+Desligado
+1hr
+1hr 30min
+Desligado
+Normal
+Intensivo
+Desligado
+Ligado
+Desligado
+Ligado
+Desligado
+Mínimo
+Menos
+Normal
+Mais
+Máximo
+Desligado
+Mínimo
+Menos
+Normal
+Mais
+Máximo
+Desligado
+Ligado
+Desligado
+Ligado
+Desligado
+Ligado
+Não conectado
+Conectado
+Desconectado
+Desligado
+Ligado
+2º sabão
+Amaciante
+Associar Sabões
+9 ~ 120ml (3ml)
+9 ~ 120ml (3ml)
+✓ para limpar
+Dispenser 1
+Dispenser 2
+Ambos os dispensers
+Desligado
+Baixa
+Média
+Alta
+Muito alto
+Idioma
+✓ para reiniciar
+✓ para inserir
+✓ para iniciar
+Detectando
+o nível de
+carga
+Detectando
+o nível de
+amaciante
+Detectando o
+nível de
+sujeira
+Otimizando
+lavagem
+inteligente
+Dosagem
+automática
+de sabão
+Dosagem
+automática
+de amaciante
+Lavagem
+Pré-lavagem
+Enxágue
+Centrifugação
+Limpeza
+Secagem
+Vapor
+Atualizando
+Pausa
+Resfriando
+Adiar Fim ligado
+Aguardando fim
+Lavagem finalizada
+Limpeza do cesto finalizada
+Reduz Amassados concluído
+Secagem finalizada
+▶ para adicionar roupa
+Adiar Fim está ligado
+Hoje
+Amanhã
+AM
+PM
+hr
+min
+Gire o botão para
+selecionar o horário
+de término e toque
+em ✓ para definir.
+Pressione ← para salvar.
+Pressione ✓ para selecionar
+ou cancelar.
+Consulte a quantidade
+recomendada de sabão
+(4-6kg).
+Consulte a quantidade
+recomendada de amaciante
+(4-6kg).
+Gire o mostrador
+para selecionar
+o tempo de finalização
+e toque em ✓ para definir.
+O ciclo foi cancelado.
+Ligando o Início Remoto.
+A porta será travada.
+Desligando o Início Remoto.
+Ligando o
+Trava Para Crianças.
+Desligando o
+Trava Para Crianças.
+Salvo
+O máximo número de ciclos
+é 20. Remova ciclos não
+usados e continue editando.
+Limpar o dispenser 2
+com ezDispense Nozzle Clean
+antes de adicionar
+novo liquido.
+Limpeza cancelada
+Adiar Fim definido.
+Pressione ▶para
+iniciar o ciclo.
+Adiar Fim definido.
+Pressione ▶para
+configurar esta função.
+Adiar Fim desligando.
+Adiar Fim cancelado.
+Fresh Keeper está
+em execução.
+Pressione ▶ ou Liga /
+Desliga para finalizar.
+Início Remoto
+continua ligado.
+Selecione o botão
+Liga/Desliga para
+desabilitar esta função.
+Mantenha ✓ pressionado
+por 3 segundos
+para desligar a
+Trava Para Crianças.
+Salvando a lista de ciclo
+Esperando a conexão Wi-Fi.
+Conecte o produto
+a partir do LG ThinQ app.
+Conectando ao Wi-Fi
+Wi-Fi conectado
+Erro com a conexão Wi-Fi.
+Cheque as informações
+no LG ThinQ app
+e tente novamente.
+Otimizando ordem dos ciclos
+e opções conforme uso.
+Concluído. A ordem do ciclo
+e as opções favoritas
+serão configuradas
+automaticamente.
+Limpe o dispenser 1,
+encha com água e incie
+ezDispense Nozzle Clean.
+A máquina será desligada
+quando a lavagem
+for finalizada.
+Limpe o dispenser 2,
+encha com água e incie
+ezDispense Nozzle Clean.
+A máquina será desligada
+quando a lavagem
+for finalizada.
+Limpe ambos os dispensers,
+encha com água e incie
+ezDispense Nozzle Clean.
+A máquina será desligada
+quando a lavagem
+for finalizada.
+Limpeza concluída
+Segure o microfone
+perto do botão
+Power e pressione ▶.
+Fazendo o diagnóstico.
+Por favor,
+mantenha o telefone
+próximo ao produto.
+Fazendo o diagnóstico.
+Quando o diagnóstico
+for concluído, o aparelho
+será desligado.
+Inicializar todas as
+as configurações
+para o padrão de fábrica.
+Não desconecte 
+o produto da tomada.
+Inicializar?
+Inicializando
+Reconfiguração concluída.
+Reinicializar o produto.
+Fresh Care está operando.
+Toque em ▶ ou no botão
+Liga/Desliga para encerrar.
+Tem certeza
+de que quer encerrar
+uma lavagem em andamento?
+Adiar Fim será desligado
+devido à mudança de ciclo.
+Continuar?
+Adiar Fim será cancelado
+devido à mudança de ciclo.
+Continuar?
+Lista de Ciclo organizada.
+Faça alterações na Lista
+de Ciclo completa em
+Editar a Lista do Ciclo
+de Mais configurações.
+Organizando ciclos
+com base no uso.
+Baixo nível de sabão.
+Adicionar sabão.
+Baixo nível de amaciante.
+Adicionar amaciante.
+Baixo nível em ambos
+os dispensers.
+Recarregar
+ambos os dispensers.
+Conecte ao app LG ThinQ
+para experimentar
+mais funções.
+Um novo recurso
+está disponível.
+Atualize no LG THinQ app.
+Uma mensagem foi enviada
+ao LG ThinQ app.
+Por favor, verifique
+seu telefone.
+Atualize para a última
+versão do software
+no app LG ThinQ.
+Atualize para a última
+versão do software
+no app LG ThinQ.
+Necessário limpar o cesto.
+Utilize o ciclo
+Limpeza do Cesto.
+Alguns ciclos não são
+usados com frequência.
+Organizar Lista de Ciclo?
+Atualizando
+Atualizando
+Porta aberta
+Porta destravada
+Entrada de água
+Dreno
+Fora de balanço
+Água não detectada
+Erro de motor
+Nível de água
+muito alto
+Erro de congelamento
+Temperatura
+não detectada
+Sensor de vibração
+Sensor de turbidez
+Checar dispenser
+de sabão
+Sem sabão
+Checar dispenser
+de amaciante
+Sem amaciante
+Anormalidade no
+dispenser auto 1
+Anormalidade no
+dispenser auto 2
+Gaveta aberta
+Error de vapor
+Falha de energia
+Excesso de sabão
+Abra e feche a porta
+novamente.
+Verifique se há objetos
+ao redor da porta
+ou na vedação.
+Ligue a água.
+Cheque a pressão da água
+e as mangueiras.
+Verifique se o filtro de
+drenagem está bloqueado
+ou se há alguma mangueira
+dobrada.
+Reorganize as roupas
+no cesto e reinicie o ciclo.
+Desconecte da tomada e
+chame a assistência técnica.
+Remova itens e reinicie.
+Se o erro persistir,
+chame a assistência técnica.
+Nível de água muito alto.
+Desligue a água e
+chame a assistência técnica.
+Descongele as partes
+congeladas antes d
+usar o produto.
+Desconecte da tomada e
+chame a assistência técnica.
+O sensor de vibração não
+está funcionando
+corretamente. Chame uma
+assistência técnica.
+Se o erro persistir,
+chame a assistência técnica.
+Limpe o dispenser de sabão.
+Se o erro persistir,
+chame a assistência técnica.
+A dosagem automática de
+detergente não
+está funcionando.
+Chame a assistência técnica.
+Limpe o dispenser de
+amaciante.
+Se o erro persistir,
+chame a assistência técnica.
+A dosagem automática de
+amaciante não
+está funcionando.
+Chame a assistência técnica.
+O dispenser automático 1
+não está funcionando.
+Chame a assistência técnica.
+O dispenser automático 2
+não está funcionando.
+Chame a assistência técnica.
+A gaveta do dispenser
+está aberta.
+Feche a gaveta.
+Vapor não está funcionando.
+Chame a assistência técnica.
+Pressione o botão de
+Início/Pausa para
+reiniciar o ciclo.
+Não adicione mais
+detergente do que o
+recomendado.
