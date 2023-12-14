@@ -239,7 +239,8 @@ def parse_arguments():
         type=int,
         nargs="?",
         help="Define the height of the produced images if horizontal, else the width",
-        default=32,
+        #default=32,
+        default=72,
     )
     parser.add_argument(
         "-t",
@@ -307,6 +308,7 @@ def parse_arguments():
         # 원본
         #default=0,
         default=1,
+
     )
     parser.add_argument(
         "-hw",
@@ -593,6 +595,7 @@ def main():
     args.input_file = r'C:/Users/TAMSystech/yjh/ipynb/TextRecognitionDataGenerator/trdg/dicts/전체언어텍스트파일/th.txt'
     #args.font_dir = r'C:/Users/TAMSystech/yjh/ipynb/TextRecognitionDataGenerator/trdg/fonts/thfont5'
     args.font_dir = r'C:/Users/TAMSystech/yjh/ipynb/TextRecognitionDataGenerator/trdg/fonts/thfont_all'
+    args.font_dir = r'C:/Users/TAMSystech/yjh/ipynb/TextRecognitionDataGenerator/trdg/fonts/thfont5'
     args.count = 1
     #"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\trdg\fonts\thfont2\NotoSansThaiLooped-Black.ttf"
     # f'image-{i:09d}.{args.extension} 형식
@@ -690,7 +693,7 @@ def main():
     args.skew_angle = 0.5
     min_skew = 0.0
     max_skew = 0.5
-    max_skew = 0.5
+    max_skew = 0.0
     step = 0.1
 
     # skew_angles을 동적으로 생성
@@ -748,18 +751,21 @@ def main():
 
     min_background = 0
     max_background = 3
-    #max_background = 0
+    max_background = 0
     step = 1
 
     # min_background = [0, 1, 2, 3]
     # backgrounds을 동적으로 생성
     backgrounds = list(range(min_background, max_background + step, step))
     backgrounds = [3]
+    backgrounds = [0]
+    backgrounds = [1]
     print(f'!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!run.py backgrounds : {backgrounds}')
 
     # background_type
 
     base_image_dir = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\trdg\images2\black_background"
+    base_image_dir = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\trdg\images2\black_background2"
 
     # 디렉토리 내의 파일 및 서브디렉토리 목록 가져오기
     # image_dirs = [d for d in os.listdir(base_image_dir) if
@@ -784,6 +790,7 @@ def main():
 
     min_alignment = 0
     max_alignment = 2
+    max_alignment = 0
     step = 1
 
     # alignments = [0, 1, 2]
@@ -796,6 +803,7 @@ def main():
 
     min_blur = 0.0
     max_blur = 1.0
+    max_blur = 0.0
     step = 0.2
 
     # min_background = [0, 1, 2, 3]
@@ -842,6 +850,7 @@ def main():
     # output_dir = os.path.join(output_dir, 'skew_angles')
     #로그용 주석처리_print(f'!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! run.py skew_angles 추가후 output_dir : {output_dir}')
     args.random_skew = False
+
 
     for skew_angle in skew_angles:
         args.random_skew = False

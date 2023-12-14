@@ -3,6 +3,7 @@ from typing import Tuple
 from PIL import Image, ImageColor, ImageDraw, ImageFilter, ImageFont
 
 from trdg.utils import get_text_width, get_text_height
+import os
 
 # Thai Unicode reference: https://jrgraphix.net/r/Unicode/0E00-0E7F
 TH_TONE_MARKS = [
@@ -96,6 +97,7 @@ def _generate_horizontal_text(
     stroke_fill: str = "#282828",
 ) -> Tuple:
     image_font = ImageFont.truetype(font=font, size=font_size)
+    print(f'computer_text_generator.py _generate_horizontal_text type(image_font : {type(image_font)}')
     # print(f'computer_text_generator.py _generate_horizontal_text image_font : {image_font}')
     # print(
     #     f'computer_text_generator.py _generate_horizontal_text font_size : {font_size}')
@@ -218,41 +220,96 @@ def _generate_horizontal_text(
         )
 
 
-    # #경로 설정
-    # save_path = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\out3\th\12-01\NotoSansThaiLooped-Black\\"
-    # # 이미지 저장
-    # txt_img_save_path = f"{save_path}_generate_horizontal_text_{1}.png"
-    # txt_img.save(txt_img_save_path)
+    #경로 설정
+    save_path = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\out3\th\12-01\NotoSansThaiLooped-Black\\"
+    save_path = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\out3\th\12-12\NotoSansThaiLooped-Black\\"
+    save_path = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\out3\th\12-13\NotoSansThaiLooped-Black\\"
+    # 이미지 저장
+    txt_img_save_path = f"{save_path}_generate_horizontal_text_{1}.png"
+    txt_img_save_path = f"{save_path}_g_h_t{1}.png"
+    txt_img.save(txt_img_save_path)
     #
     # # 통계 출력
-    # print(f"computer_text_generator.py txt_img 이미지 저장 완료: {txt_img_save_path}")
-    #
-    # print(f"computer_text_generator.py txt_img.getbbox(): {txt_img.getbbox()}")
-    #
-    # txt_img_crop = txt_img.crop(txt_img.getbbox())
-    # txt_mask_crop = txt_mask.crop(txt_img.getbbox())
-    #
-    # # 경로 설정
-    # save_path = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\out3\th\12-01\NotoSansThaiLooped-Black\\"
-    # # 이미지 저장
-    # txt_img_crop_save_path = f"{save_path}_txt_img_crop_{1}.png"
-    # txt_img_crop.save(txt_img_crop_save_path)
-    #
-    # # 통계 출력
-    # print(f"computer_text_generator.py txt_img 이미지 저장 완료: {txt_img_crop_save_path}")
-    #
-    # # 경로 설정
-    # save_path = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\out3\th\12-01\NotoSansThaiLooped-Black\\"
-    # # 이미지 저장
-    # txt_mask_crop_save_path = f"{save_path}_txt_mask_crop_{1}.png"
-    # txt_mask_crop.save(txt_mask_crop_save_path)
-    #
-    # # 통계 출력
-    # print(f"computer_text_generator.py txt_mask 이미지 저장 완료: {txt_mask_crop_save_path}")
+    print(f"computer_text_generator.py txt_img 이미지 저장 완료: {txt_img_save_path}")
+
+    print(f"computer_text_generator.py txt_img.getbbox(): {txt_img.getbbox()}")
+
+    txt_img_crop = txt_img.crop(txt_img.getbbox())
+    txt_mask_crop = txt_mask.crop(txt_img.getbbox())
+
+    # 경로 설정
+    save_path = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\out3\th\12-13\NotoSansThaiLooped-Black\\"
+    #이미지 저장
+    txt_img_crop_save_path = f"{save_path}_txt_img_crop_{1}.png"
+    txt_img_crop.save(txt_img_crop_save_path)
+
+    # 통계 출력
+    print(f"computer_text_generator.py txt_img 이미지 저장 완료: {txt_img_crop_save_path}")
+
+    # 경로 설정
+    save_path = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\out3\th\12-13\NotoSansThaiLooped-Black\\"
+    # 이미지 저장
+    txt_mask_crop_save_path = f"{save_path}_txt_mask_crop_{1}.png"
+    txt_mask_crop.save(txt_mask_crop_save_path)
+
+    # 통계 출력
+    print(f"computer_text_generator.py txt_mask 이미지 저장 완료: {txt_mask_crop_save_path}")
 
     #print(f'computer_text_generator.py fit : {fit}')
     fit = True
     #print(f'computer_text_generator.py fit True 로 변경후 : {fit}')
+
+    # ImageFont.truetype 에서 태국어 첨자 오류로 노트패드에서 캡쳐함
+    image_base_path = r'C:\Users\TAMSystech\yjh\img\라인명2\태국어\NotoSansThaiLooped-Black'
+    image_base_path = r'C:\Users\TAMSystech\yjh\img\라인명2\태국어\테스트'
+
+    dict_file_path = r'C:\Users\TAMSystech\yjh\text_file\전체 언어 텍스트 파일\ttf3\common\태국어_빈문자열 제거.txt'
+
+    index = 0
+
+    with open(dict_file_path, 'r', encoding='utf-8') as file:
+        # 파일의 각 라인을 반복하면서 빈 문자열이 아닌 경우 라인 번호를 출력
+        for line_number, line in enumerate(file, start=0):
+            if line.strip() and line.strip() == text:  # 빈 문자열이 아닌 경우
+                print(f'라인 line_number {line_number}: {line.strip()}')
+                index = line_number
+
+    file_name = f'image-{0:09d}.jpg'
+    file_name = f'image-{int(index):09d}.jpg'
+
+    print(f'text : {text}')
+    print(f'file_name : {file_name}')
+    image_path = os.path.join(image_base_path, file_name)
+    print(f'image_path : {image_path}')
+    image = Image.open(image_path)
+    # Display the image
+    #image.show()
+    print(f'이미지 show 완료 image_path : {image_path}')
+
+    print('computer_text_generator.py 수정전 getbbox 출력 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
+
+    print(f'computer_text_generator.py 수정전 font 생성 font_size : {font_size}')
+    print(f'computer_text_generator.py 수정전 font 생성 txt_img.getbbox() : {txt_img.getbbox()}')
+
+    txt_img = image
+
+    print(f'computer_text_generator.py 수정후 캡쳐한 이미지로 txt_img.getbbox() : {txt_img.getbbox()}')
+    print('computer_text_generator.py 수정후 getbbox 출력 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
+
+    txt_img_crop = txt_img.crop(txt_img.getbbox())
+    txt_mask_crop = txt_mask.crop(txt_img.getbbox())
+
+    # 경로 설정
+    save_path = r"C:\Users\TAMSystech\yjh\ipynb\TextRecognitionDataGenerator\out3\th\12-13\NotoSansThaiLooped-Black\\"
+    # 이미지 저장
+    txt_img_crop_save_path = f"{save_path}_txt_img_crop_{2}.png"
+    txt_img_crop.save(txt_img_crop_save_path)
+
+    # 통계 출력
+    print(f"computer_text_generator.py txt_img 노트패드 이미지 저장 완료: {txt_img_crop_save_path}")
+
+
+    print(f'computer_text_generator.py image_path : {image_path}')
 
     if fit:
         return txt_img.crop(txt_img.getbbox()), txt_mask.crop(txt_img.getbbox())

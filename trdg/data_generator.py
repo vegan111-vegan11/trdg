@@ -456,13 +456,30 @@ class FakeTextDataGenerator(object):
                 stroke_width,
                 stroke_fill,
             )
+            # image_base_path = r'C:\Users\TAMSystech\yjh\img\라인명2\태국어\NotoSansThaiLooped-Black'
+            #
+            # file_name = f'image-{index:09d}.jpg'
+            # print(f'file_name : {file_name}')
+            # image_path = os.path.join(image_base_path, file_name)
+            # print(f'image_path : {image_path}')
+            # image = Image.open(image_path)
+            # mask = image
+
+            # if(file_name == 'image-000000000.jpg'):
+            #
+            #     # 이미지 파일 읽어오기
+            #     image = Image.open(image_path)
+            #
+            #     # img를 사용하여 필요한 작업 수행
+            #     # 예: 이미지 표시
+            #     image.show()
             #print(f'data_generator.py gaussian_filter if orientation != 1 image : {image}')
             #print(f'data_generator.py gaussian_filter if orientation != 1 mask : {mask}')
 
         # print(
         #     f'data_generator.py image : {image}')
-        # print(
-        #     f'data_generator.py size : {size}')
+        print(
+            f'data_generator.py size : {size}')
         # print(
         #     f'data_generator.py skewing_angle : {skewing_angle}')
         #image.show()  # 이미지 출력
@@ -485,8 +502,9 @@ class FakeTextDataGenerator(object):
         #로그용 주석처리_print(f'data_generator.py out_dir : {out_dir}')
 
         # 이미지 저장
+        # 로그용 ( 이미지 생성 로그 )
         image_save_path = f"{save_path}_cmt_txt_gnr_{1}.png"
-        #로그용_이미지 저장_image.save(image_save_path)
+        image.save(image_save_path)
 
         # 통계 출력
         #print(f"_computer_text_generator image 이미지 저장 완료: {image_save_path}")
@@ -530,8 +548,9 @@ class FakeTextDataGenerator(object):
         # 경로 설정
         save_path = fr'{out_dir}/log/'
         # 이미지 저장
+        # 로그용 ( 이미지 생성 로그 )
         rotated_img_save_path = f"{save_path}rotated_{2}.png"
-        #로그용_이미지 저장_rotated_img.save(rotated_img_save_path)
+        rotated_img.save(rotated_img_save_path)
 
         # 통계 출력
         #print(f"rotated_img 이미지 저장 완료: {rotated_img_save_path}")
@@ -591,8 +610,9 @@ class FakeTextDataGenerator(object):
         # print(
         #     f'data_generator.py 경로 설정 save_path ( out_dir/log ) : {save_path}')
         # 이미지 저장
+        # 로그용 ( 이미지 생성 로그 )
         distorted_img_save_path = f"{save_path}dst_{3}.png"
-        #로그용_이미지 저장_distorted_img.save(distorted_img_save_path)
+        distorted_img.save(distorted_img_save_path)
 
         # 통계 출력
         #print(f"distorted_img 이미지 저장 완료: {distorted_img_save_path}")
@@ -788,10 +808,11 @@ class FakeTextDataGenerator(object):
         #print(f'수평또는 수직으로 텍스트 변환 data_generator.py resized_mask 이미지 출력 : {resized_mask}')
 
         # 경로 설정
-        #save_path = fr'{out_dir}/log/'
-        # 이미지 저장
-        #resized_img_save_path = f"{save_path}_resized_{4}.png"
-        #resized_img.save(resized_img_save_path)
+        save_path = fr'{out_dir}/log/'
+        ##이미지 저장
+        # 로그용 ( 이미지 생성 로그 )
+        resized_img_save_path = f"{save_path}_resized_{4}.png"
+        resized_img.save(resized_img_save_path)
 
         # 통계 출력
         #print(f"data_generator.py resized_img 이미지 저장 완료: {resized_img_save_path}")
@@ -803,7 +824,8 @@ class FakeTextDataGenerator(object):
         # 통계 출력
         #print(f"data_generator.py resized_mask 이미지 저장 완료: {resized_mask_save_path}")
 
-        #로그용 주석처리_print(f"data_generator.py background_type: {background_type}")
+        # 로그용 ( 이미지 생성 로그 )
+        print(f"data_generator.py background_type: {background_type}")
 
         #############################
         # Generate background image #
@@ -845,11 +867,14 @@ class FakeTextDataGenerator(object):
         # #background_mask.show()  # 이미지 출력
         # print(f'data_generator.py 배경생성 background_mask 이미지 출력 : {background_mask}')
 
+        print(f"data_generator.py background_type: {background_type}")
+
         # 경로 설정
         save_path = fr'{out_dir}/log/'
         # 이미지 저장
+        # 로그용 ( 이미지 생성 로그 )
         background_img_save_path = f"{save_path}배경_생성_{5}.png"
-        #로그용_이미지 저장_background_img.save(background_img_save_path)
+        background_img.save(background_img_save_path)
 
         # 통계 출력
         #print(f"background_img 이미지 저장 완료: {background_img_save_path}")
@@ -912,7 +937,7 @@ class FakeTextDataGenerator(object):
             #print(f'data_generator.py 전경 배경 픽셀값 비교 resized_img_st 이미지 출력 이거 왜 프린트 안됌 : {resized_img_st}')
 
             resized_img_save_path = f"{save_path}_resized_{7}.png"
-            #로그용_이미지 저장_resized_img.save(resized_img_save_path)
+            resized_img.save(resized_img_save_path)
 
             # 통계 출력
             #로그용 주석처리_print(f"resized_img 이미지 저장 완료2: {resized_img_save_path}")
@@ -971,18 +996,75 @@ class FakeTextDataGenerator(object):
 
             # 배경 이미지에 텍스트 이미지 붙이기 (투명한 영역은 텍스트가 그려진 부분만 남음)
             #background_img.paste(resized_img, (0, 0), mask=resized_img)
-            background_img.paste(resized_img, (margin_left, margin_top), resized_img)
+            #background_img.paste(resized_img, (margin_left, margin_top), resized_img)
+
+            try:
+
+                # 이미지 저장
+                # 로그용 ( 이미지 생성 로그 )
+                resized_img_save_path = f"{save_path}_bf_bp_resized_{8}_{0}.png"
+                resized_img.save(resized_img_save_path)
+
+                print(f"data_generator.py margin_left: {margin_left}")
+                print(f"data_generator.py margin_top: {margin_top}")
+
+                background_img.show()
+                # 이미지 저장
+                # 로그용 ( 이미지 생성 로그 )
+                background_img_save_path = f"{save_path}_bf_bp_bg_{8}_{1}.png"
+                background_img.save(background_img_save_path)
+
+                # 이미지 모드 출력
+                print("data_generator.py resized_img 모드 수정전 :", resized_img.mode)
+
+                resized_img = resized_img.convert("RGBA")  # RGBA 모드로 변환
+
+                print("data_generator.py resized_img 모드 수정후 :", resized_img.mode)
+
+                # 투명한 배경이 없다면, 투명한 배경을 가진 이미지로 변경
+                # 예를 들어, 흰색 배경을 투명하게 만들고자 할 경우
+                #resized_img = resized_img.convert("RGBA")
+                data = resized_img.getdata()
+                #print("data_generator.py resized_img 투명하게 처리 수정전 data :", data)
+
+                new_data = []
+                for item in data:
+                    #print("data_generator.py resized_img 투명하게 처리 수정전 item :", item)
+
+                    if item[:3] == (255, 255, 255):  # 흰색이면
+                        new_data.append((255, 255, 255, 0))  # 투명하게 처리
+                    else:
+                        new_data.append(item)
+                resized_img.putdata(new_data)
+                #print("data_generator.py resized_img 투명하게 처리 수정후 data :", data)
+
+                background_img.paste(resized_img, (margin_left, margin_top), resized_img)
+                print(f"data_generator.py background_img.paste 성공 ( bad transparency mask 에러 안날 경우 )  ")
+                background_img.show()
+
+                # 이미지 저장
+                # 로그용 ( 이미지 생성 로그 )
+                af_bp_background_img_save_path = f"{save_path}_af_bp_bg_{8}_{2}.png"
+                background_img.save(af_bp_background_img_save_path)
+
+            except ValueError as e:
+                print('@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@')
+                print(f"data_generator.py background_img.paste 실패 ( bad transparency mask 에러 날 경우 )  ")
+                print(f"data_generator.py Error while pasting image: {e}")
+                # 예외 처리 코드 추가
 
 
             #background_mask.paste(resized_mask, (margin_left, margin_top))
 
-            background_img_save_path = f"{save_path}bak_paste_rszed_{8}.png"
-            #로그용_이미지 저장_background_img.save(background_img_save_path)
+            # 로그용 ( 이미지 생성 로그 )
+            background_img_save_path = f"{save_path}bak_paste_rszed_{8}_{4}.png"
+            #로그 필요할때 주석 풀기 ( #@로그용_이미지 저장_ )
+            background_img.save(background_img_save_path)
 
             # 통계 출력
             #print(f"background_img 이미지 저장 완료3: {background_img_save_path}")
 
-            background_mask_save_path = f"{save_path}bak_paste_rszed_mask_{8}.png"
+            background_mask_save_path = f"{save_path}bak_paste_rszed_mask_{8}_{4}.png"
             #background_mask.save(background_mask_save_path)
 
             # 통계 출력
@@ -1021,8 +1103,9 @@ class FakeTextDataGenerator(object):
             # print(
             #     f'data_generator.py alignment == 1 background_mask 이미지 출력 : {background_mask}')
 
+            # 로그용 ( 이미지 생성 로그 )
             background_img_save_path = f"{save_path}bck_{8}.png"
-            #로그용_이미지 저장_background_img.save(background_img_save_path)
+            background_img.save(background_img_save_path)
 
             # 통계 출력
             #print(f"background_img 이미지 저장 완료3: {background_img_save_path}")
@@ -1055,8 +1138,9 @@ class FakeTextDataGenerator(object):
             # print(
             #     f'data_generator.py else background_mask 이미지 출력 : {background_mask}')
 
+            # 로그용 ( 이미지 생성 로그 )
             background_img_save_path = f"{save_path}bck_{8}.png"
-            #로그용_이미지 저장_background_img.save(background_img_save_path)
+            background_img.save(background_img_save_path)
 
             # 통계 출력
             #로그용 주석처리_print(f"background_img 이미지 저장 완료3: {background_img_save_path}")
@@ -1135,8 +1219,9 @@ class FakeTextDataGenerator(object):
         save_path = fr'{out_dir}/log/'
         # 이미지 저장
         # 컨버트 하면 검은색으로 변해서 주석처리
+        # 로그용 ( 이미지 생성 로그 )
         background_img_save_path = f"{save_path}_bck_img_cnvt_{9}.png"
-        #로그용_이미지 저장_background_img.save(background_img_save_path)
+        background_img.save(background_img_save_path)
 
         # 통계 출력
         #print(f"background_img 이미지 저장 완료: {background_img_save_path}")
@@ -1191,7 +1276,8 @@ class FakeTextDataGenerator(object):
 
         # 1초 동안 일시 중지
         #time.sleep(1)
-        #로그용_이미지 저장_final_image.save(final_image_save_path)
+        # 로그용 ( 이미지 생성 로그 )
+        final_image.save(final_image_save_path)
         #print(f"final_image 이미지 저장 완료 저장하라고 final_image_save_path !!!!!!!!!!!!!: {final_image_save_path}")
         #print(f"final_image 이미지 저장 완료 저장하라고 final_image !!!!!!!!!!!!!: {final_image}")
 
@@ -1293,6 +1379,8 @@ class FakeTextDataGenerator(object):
             #print(f'data_generator.py out_dir 변경후 : {out_dir}')
 
             #final_image.convert('RGB')
+            # 로그용 ( 이미지 생성 로그 )
+            # 항상 출력 ( 최종 이미지 )
             final_image.save(final_image_save_path)
 
             # 통계 출력
